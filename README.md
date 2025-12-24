@@ -4,6 +4,7 @@ This was my freshman year CS100 semester project. I decided to program Connect 4
 My CS 100 course required creating a project from a list or selecting one of my choice. My teammate and I chose to create Connect 4. The project requirements entailed having varying levels of difficulty; thus, the code allows two different grid sizes. I also chose to have a one-player and a two-player mode. The one-player is a rudimentary randomiser, so it is extremely easy to win against. It was also necessary to have ways to save progress, which turned out to be the most challenging logic to implement. There are also leaderboard files that are local to your computer. 
 
 # Gameplay
+![gif](connect4gameplay.gif)
 
 # Installation
 Download the two .cpp files, the .h file (compulsory), and the .txt files (optional). Open the folder the files are located in, and in the terminal type the command: 
